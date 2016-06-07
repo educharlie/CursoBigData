@@ -1,0 +1,2 @@
+Mejoras
+- filtrar con anticipacion los tweets que esten geolocalizados
