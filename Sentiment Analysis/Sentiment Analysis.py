@@ -5,6 +5,7 @@ import couchdb
 
 from nltk import wordpunct_tokenize
 from nltk.corpus import stopwords
+from googlemaps import GoogleMaps
 from alchemyapi import AlchemyAPI
 alchemyapi = AlchemyAPI()
 
@@ -37,43 +38,53 @@ def write_json(file, data):
 		json.dump(data, json_file)
 
 def create_json(data):
+	place = ""
+	if data['doc']['place'] is not None:
+		place = data['doc']['place']["country_code"]
+	else:
+		place = 'NA'
+
 	return {'text': data['doc']['text'],'source': data['doc']['source'],'retweeted': data['doc']['retweeted'],
 	'profile_image': data['doc']['user']['profile_image_url_https'],'screen_name': data['doc']['user']['screen_name'],
 	'created_at': data['doc']['created_at'], 'sentiment': data['sentiment'], 'polarity': data['polarity'], 
-	'subjetivity' : data['subjectivity'], 'location' : data['doc']['geo'], 'country_code' : data['doc']['place']["country_code"]}
+	'subjetivity' : data['subjectivity'], 'location' : data['doc']['geo'], 'place' : place}
+
+def insert_doc(doc):
+	couch = couchdb.Server()
+	db = couch['test']
+	db.save(doc)
+
+# google api key AIzaSyAhrmfU4bPrnlQMWDa0GcyOct0tr_iF-vc
 
 if __name__=='__main__':
 
-	data = load_json("db.json")
-	result = {"docs":[]}
-
+	data = load_json("dbtest.json")
+	
 	for item in data['docs']:
 		try:
-			if item['doc']['place'] is not None:
-				text = item['doc']['text']
-				language = detect_language(text)
+			text = item['doc']['text']
+			language = detect_language(text)
 
-				if language == "english":
-					sentiment = classifier.doSentimentAnalysis(text)
-					item['sentiment'] = sentiment["sentiment"]
-					item['polarity'] = sentiment["polarity"]
-					item['subjectivity'] = sentiment["subjectivity"]
-				else:
-					response = alchemyapi.sentiment("text", text)
-					if response["status"] == "OK":
-						item['sentiment'] = response["docSentiment"]["type"]
-						if item['sentiment'] != "neutral":
-							item['polarity'] = float(response["docSentiment"]["score"])
-						else:
-							item['polarity'] = 'NA'
+			if language == "english":
+				sentiment = classifier.doSentimentAnalysis(text)
+				item['sentiment'] = sentiment["sentiment"]
+				item['polarity'] = sentiment["polarity"]
+				item['subjectivity'] = sentiment["subjectivity"]
+			else:
+				response = alchemyapi.sentiment("text", text)
+				if response["status"] == "OK":
+					item['sentiment'] = response["docSentiment"]["type"]
+					if item['sentiment'] != "neutral":
+						item['polarity'] = float(response["docSentiment"]["score"])
 					else:
-						item['sentiment'] = 'NA'
 						item['polarity'] = 'NA'
-					item['subjectivity'] = 'NA'
-				result['docs'].append(create_json(item))
-
+				else:
+					item['sentiment'] = 'NA'
+					item['polarity'] = 'NA'
+				item['subjectivity'] = 'NA'
 		except KeyError: 
 			pass
-			
-	write_json("PlaceTweets.json",result)
+		
+		doc = create_json(item)
+		insert_doc(doc)
 
