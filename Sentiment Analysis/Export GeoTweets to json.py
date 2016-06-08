@@ -5,6 +5,8 @@ import couchdb
 
 from nltk import wordpunct_tokenize
 from nltk.corpus import stopwords
+from alchemyapi import AlchemyAPI
+alchemyapi = AlchemyAPI()
 
 def _calculate_languages_ratios(text):
     languages_ratios = {}
@@ -40,32 +42,38 @@ def create_json(data):
 	'created_at': data['doc']['created_at'], 'sentiment': data['sentiment'], 'polarity': data['polarity'], 
 	'subjetivity' : data['subjectivity'], 'location' : data['doc']['geo']}
 
-def insert_doc(doc):
-	couch = couchdb.Server()
-	db = couch['analyzedpanamapapersdb']
-	db.save(doc)
-
 if __name__=='__main__':
 
 	data = load_json("db.json")
-	
+	result = {"docs":[]}
+
 	for item in data['docs']:
 		try:
-			text = item['doc']['text']
-			language = detect_language(text)
+			if item['doc']['geo'] is not None:
+				text = item['doc']['text']
+				language = detect_language(text)
 
-			if language == "english":
-				sentiment = classifier.doSentimentAnalysis(text)
-				item['sentiment'] = sentiment["sentiment"]
-				item['polarity'] = sentiment["polarity"]
-				item['subjectivity'] = sentiment["subjectivity"]
-			else:
-				item['sentiment'] = 'NA'
-				item['polarity'] = 'NA'
-				item['subjectivity'] = 'NA'
+				if language == "english":
+					sentiment = classifier.doSentimentAnalysis(text)
+					item['sentiment'] = sentiment["sentiment"]
+					item['polarity'] = sentiment["polarity"]
+					item['subjectivity'] = sentiment["subjectivity"]
+				else:
+					response = alchemyapi.sentiment("text", text)
+					if response["status"] == "OK":
+						item['sentiment'] = response["docSentiment"]["type"]
+						if item['sentiment'] != "neutral":
+							item['polarity'] = float(response["docSentiment"]["score"])
+						else:
+							item['polarity'] = 'NA'
+					else:
+						item['sentiment'] = 'NA'
+						item['polarity'] = 'NA'
+					item['subjectivity'] = 'NA'
+				result['docs'].append(create_json(item))
+
 		except KeyError: 
 			pass
-		
-		doc = create_json(item)
-		insert_doc(doc)
+			
+	write_json("GeoTweets.json",result)
 
