@@ -1,11 +1,11 @@
 import json
 import sys
 import tweet_classifier.classifier as classifier
-import couchdb
 
 from nltk import wordpunct_tokenize
 from nltk.corpus import stopwords
 from alchemyapi import AlchemyAPI
+from geopy.geocoders import Nominatim
 alchemyapi = AlchemyAPI()
 
 def _calculate_languages_ratios(text):
@@ -36,11 +36,16 @@ def write_json(file, data):
 	with open(file, 'w') as json_file:
 		json.dump(data, json_file)
 
+def get_location(country_code):
+	geolocator = Nominatim()
+	location = geolocator.geocode(country_code)
+	print(country_code)
+	print(location)
+	return location
+
 def create_json(data):
-	return {'text': data['doc']['text'],'source': data['doc']['source'],'retweeted': data['doc']['retweeted'],
-	'profile_image': data['doc']['user']['profile_image_url_https'],'screen_name': data['doc']['user']['screen_name'],
-	'created_at': data['doc']['created_at'], 'sentiment': data['sentiment'], 'polarity': data['polarity'], 
-	'subjetivity' : data['subjectivity'], 'location' : data['doc']['geo']}
+	#location = get_location(data['doc']['place']["country_code"])
+	return {'code': data['doc']['place']["country_code"], 'count': data['polarity']}
 
 if __name__=='__main__':
 
@@ -49,7 +54,7 @@ if __name__=='__main__':
 
 	for item in data['docs']:
 		try:
-			if item['doc']['geo'] is not None:
+			if item['doc']['place'] is not None:
 				text = item['doc']['text']
 				language = detect_language(text)
 
@@ -70,10 +75,12 @@ if __name__=='__main__':
 						item['sentiment'] = 'NA'
 						item['polarity'] = 'NA'
 					item['subjectivity'] = 'NA'
-				result['docs'].append(create_json(item))
+
+				if item['polarity'] != 'NA':
+					result['docs'].append(create_json(item))
 
 		except KeyError: 
 			pass
 			
-	write_json("GeoTweets.json",result)
+	write_json("HeatmapData.json",result)
 

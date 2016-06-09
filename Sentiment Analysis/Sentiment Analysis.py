@@ -5,7 +5,6 @@ import couchdb
 
 from nltk import wordpunct_tokenize
 from nltk.corpus import stopwords
-from googlemaps import GoogleMaps
 from alchemyapi import AlchemyAPI
 alchemyapi = AlchemyAPI()
 
@@ -51,14 +50,12 @@ def create_json(data):
 
 def insert_doc(doc):
 	couch = couchdb.Server()
-	db = couch['test']
+	db = couch['ppdb']
 	db.save(doc)
-
-# google api key AIzaSyAhrmfU4bPrnlQMWDa0GcyOct0tr_iF-vc
 
 if __name__=='__main__':
 
-	data = load_json("dbtest.json")
+	data = load_json("db.json")
 	
 	for item in data['docs']:
 		try:
