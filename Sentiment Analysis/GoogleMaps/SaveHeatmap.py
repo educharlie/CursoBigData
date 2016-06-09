@@ -44,8 +44,15 @@ def get_location(country_code):
 	return location
 
 def create_json(data):
-	#location = get_location(data['doc']['place']["country_code"])
-	return {'code': data['doc']['place']["country_code"], 'count': data['polarity']}
+	score = 0
+	if data['sentiment'] == 'positive':
+		score = 2
+	elif data['sentiment'] == 'negative':
+		score = 3
+	else:
+		score = 1
+
+	return {'code': data['doc']['place']["country_code"], 'count': score}
 
 if __name__=='__main__':
 

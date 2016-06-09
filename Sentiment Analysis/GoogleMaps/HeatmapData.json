@@ -1,3408 +1,3406 @@
-{
-  "docs": [
+[
     {
-      "count": -0.5,
+      "count": 3,
       "code": "AE"
     },
     {
-      "count": 0.0625,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": -0.22361111111111115,
+      "count": 3,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "IN"
     },
     {
-      "count": 0.6666666666666666,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.06666666666666665,
+      "count": 2,
       "code": "AE"
     },
     {
-      "count": -0.25,
+      "count": 3,
       "code": "AU"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "NL"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "FR"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "IE"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "NZ"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "DE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "FR"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "NL"
     },
     {
-      "count": -0.5937499999999999,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": -0.4,
+      "count": 3,
       "code": "AU"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "AU"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AU"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AE"
     },
     {
-      "count": 0.11818181818181818,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": -0.0625,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": -0.5,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.15,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "BR"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": -0.75,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": -0.04999999999999999,
+      "count": 3,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "SA"
     },
     {
-      "count": -0.25,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AE"
     },
     {
-      "count": -0.1,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": -0.1,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": -0.1,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": -0.1,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": -0.5,
+      "count": 3,
       "code": "IE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "FR"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.25,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "NL"
     },
     {
-      "count": 0.6,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": -0.11666666666666665,
+      "count": 3,
       "code": "IN"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "BE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "BE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.07500000000000001,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "SA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.8,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "DE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "IN"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "NZ"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": -0.5571428571428572,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.3333333333333333,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "NZ"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "NZ"
     },
     {
-      "count": 0.4,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "FR"
     },
     {
-      "count": -0.5,
+      "count": 3,
       "code": "AE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "NL"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "MU"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AE"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": -0.22500000000000003,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": -0.15,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PA"
     },
     {
-      "count": 0.05,
+      "count": 2,
       "code": "KE"
     },
     {
-      "count": 0.3125,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CY"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.7,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "DE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AE"
     },
     {
-      "count": -0.75,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CO"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": -0.35,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": -0.15555555555555559,
+      "count": 3,
       "code": "GB"
     },
     {
-      "count": 0.15,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "IT"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "TH"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": -0.4,
+      "count": 3,
       "code": "SA"
     },
     {
-      "count": 0.78,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": -0.2125,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.125,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "EC"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.44999999999999996,
+      "count": 3,
       "code": "MT"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.7,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "IT"
     },
     {
-      "count": -0.4,
+      "count": 3,
       "code": "ES"
     },
     {
-      "count": -0.4,
+      "count": 3,
       "code": "ES"
     },
     {
-      "count": -0.4,
+      "count": 3,
       "code": "ES"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.225,
+      "count": 2,
       "code": "SG"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AU"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": -0.1,
+      "count": 3,
       "code": "SA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.75,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.8,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": -0.15555555555555559,
+      "count": 3,
       "code": "DE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "TR"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AU"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "NZ"
     },
     {
-      "count": -0.025,
+      "count": 3,
       "code": "AU"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "NL"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": -0.5499999999999999,
+      "count": 3,
       "code": "NZ"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "FR"
     },
     {
-      "count": 0.17857142857142858,
+      "count": 2,
       "code": "NZ"
     },
     {
-      "count": 0.65,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.625,
+      "count": 3,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.30000000000000004,
+      "count": 3,
       "code": "NZ"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "MT"
     },
     {
-      "count": -0.21666666666666667,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.19999999999999998,
+      "count": 2,
       "code": "AU"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AU"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": -0.4,
+      "count": 3,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "JP"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "DZ"
     },
     {
-      "count": 0.3333333333333333,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.25,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0625,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.625,
+      "count": 2,
       "code": "PA"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AE"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "NZ"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "NZ"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AR"
     },
     {
-      "count": -0.33181818181818185,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AU"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AU"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AU"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "AU"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AU"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "EG"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AE"
     },
     {
-      "count": -0.15000000000000002,
+      "count": 3,
       "code": "PK"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "PK"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": -0.4,
+      "count": 3,
       "code": "NG"
     },
     {
-      "count": 0.13636363636363635,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "ZA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "IN"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "ZA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "ZA"
     },
     {
-      "count": 0.3,
+      "count": 2,
       "code": "FR"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CO"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "GH"
     },
     {
-      "count": 0.25,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "NG"
     },
     {
-      "count": -0.15555555555555559,
+      "count": 3,
       "code": "IN"
     },
     {
-      "count": -0.4,
+      "count": 3,
       "code": "ZA"
     },
     {
-      "count": -0.5,
+      "count": 3,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "QA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "ZA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "BM"
     },
     {
-      "count": 1.0,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": -0.5,
+      "count": 3,
       "code": "PK"
     },
     {
-      "count": -0.5,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GR"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "DZ"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "IN"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "ZA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "FR"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AU"
     },
     {
-      "count": 0.16666666666666666,
+      "count": 2,
       "code": "IN"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "ZA"
     },
     {
-      "count": -0.29583333333333334,
+      "count": 3,
       "code": "GB"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "IN"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "ZA"
     },
     {
-      "count": 1.0,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": -0.08333333333333333,
+      "count": 3,
       "code": "IN"
     },
     {
-      "count": -0.25,
+      "count": 3,
       "code": "IN"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": -0.125,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.25,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "IN"
     },
     {
-      "count": 0.3125,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.1875,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "JP"
     },
     {
-      "count": 0.30000000000000004,
+      "count": 2,
       "code": "EG"
     },
     {
-      "count": -0.5,
+      "count": 3,
       "code": "IN"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "IN"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "IN"
     },
     {
-      "count": -0.25,
+      "count": 3,
       "code": "BE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "BE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.5,
+      "count": 3,
       "code": "AE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.625,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.06818181818181818,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": -0.05,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.1875,
+      "count": 2,
       "code": "AU"
     },
     {
-      "count": 0.4388888888888889,
+      "count": 2,
       "code": "SE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "DE"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "DE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": -0.6,
+      "count": 3,
       "code": "DE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": -0.16666666666666666,
+      "count": 3,
       "code": "DE"
     },
     {
-      "count": 0.6666666666666666,
+      "count": 2,
       "code": "DE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "DE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "IQ"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CO"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.025,
+      "count": 2,
       "code": "AE"
     },
     {
-      "count": -1.0,
+      "count": 3,
       "code": "AU"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.13333333333333336,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": -0.04166666666666666,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "DE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "NO"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.25,
+      "count": 2,
       "code": "DE"
     },
     {
-      "count": 0.32222222222222224,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": -0.06666666666666667,
+      "count": 3,
       "code": "KR"
     },
     {
-      "count": -0.2046296296296296,
+      "count": 3,
       "code": "AE"
     },
     {
-      "count": 0.2857142857142857,
+      "count": 2,
       "code": "AU"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": -0.5,
+      "count": 3,
       "code": "NZ"
     },
     {
-      "count": -0.75,
+      "count": 3,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": -0.5,
+      "count": 3,
       "code": "IN"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "DE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "IN"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "DE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "DE"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "DE"
     },
     {
-      "count": -0.16666666666666666,
+      "count": 3,
       "code": "DE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "DE"
     },
     {
-      "count": -0.09999999999999992,
+      "count": 3,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AU"
     },
     {
-      "count": 0.016666666666666677,
+      "count": 2,
       "code": "DE"
     },
     {
-      "count": -0.6000000000000001,
+      "count": 3,
       "code": "DE"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "CO"
     },
     {
-      "count": 0.48333333333333334,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PA"
     },
     {
-      "count": -0.025,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": -0.15272727272727274,
+      "count": 3,
       "code": "NZ"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "NZ"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "KE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GR"
     },
     {
-      "count": 0.4166666666666667,
+      "count": 2,
       "code": "BN"
     },
     {
-      "count": 0.43749999999999994,
+      "count": 2,
       "code": "AU"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "DE"
     },
     {
-      "count": 0.0625,
+      "count": 2,
       "code": "PA"
     },
     {
-      "count": -0.16666666666666666,
+      "count": 3,
       "code": "MX"
     },
     {
-      "count": -0.46875,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "DE"
     },
     {
-      "count": 0.375,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": -0.20833333333333331,
+      "count": 3,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.125,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.15,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.225,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.175,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": -0.15625,
+      "count": 3,
       "code": "AE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "IE"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "NZ"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "NZ"
     },
     {
-      "count": 0.30000000000000004,
+      "count": 2,
       "code": "DE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.7,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "AU"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "ES"
     },
     {
-      "count": 0.25,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.05,
+      "count": 2,
       "code": "AE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": -0.05,
+      "count": 3,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.25,
+      "count": 2,
       "code": "MT"
     },
     {
-      "count": 0.26666666666666666,
+      "count": 2,
       "code": "IN"
     },
     {
-      "count": -0.14583333333333334,
+      "count": 3,
       "code": "PK"
     },
     {
-      "count": 0.26666666666666666,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": -0.4,
+      "count": 3,
       "code": "PK"
     },
     {
-      "count": 0.5051948051948052,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "BR"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "SA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": -0.1,
+      "count": 3,
       "code": "GB"
     },
     {
-      "count": 0.35,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.9,
+      "count": 2,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "MN"
     },
     {
-      "count": -0.125,
+      "count": 3,
       "code": "AU"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.26,
+      "count": 2,
       "code": "IN"
     },
     {
-      "count": -0.0625,
+      "count": 3,
       "code": "AE"
     },
     {
-      "count": 0.05000000000000001,
+      "count": 2,
       "code": "AE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "SA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": -0.004166666666666689,
+      "count": 3,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "NL"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "NL"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "NL"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "NL"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "ES"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "AE"
     },
     {
-      "count": -0.5,
+      "count": 3,
       "code": "AE"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.9,
+      "count": 2,
       "code": "YE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "FR"
     },
     {
-      "count": 0.9,
+      "count": 2,
       "code": "EG"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "FR"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "DE"
     },
     {
-      "count": -0.4,
+      "count": 3,
       "code": "GB"
     },
     {
-      "count": 0.13333333333333333,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": -0.1,
+      "count": 3,
       "code": "GB"
     },
     {
-      "count": 0.06190476190476191,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.4,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.11666666666666668,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": -0.16249999999999998,
+      "count": 3,
       "code": "GB"
     },
     {
-      "count": -0.04999999999999999,
+      "count": 3,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.4166666666666667,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.04999999999999999,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.10000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": -0.2,
+      "count": 3,
       "code": "CA"
     },
     {
-      "count": 0.15000000000000002,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.2,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "CA"
     },
     {
-      "count": 0.1,
+      "count": 2,
       "code": "CA"
     },
     {
-      "count": 0.024999999999999994,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.2555555555555556,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "AU"
     },
     {
-      "count": 0.25,
+      "count": 2,
       "code": "SG"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "FR"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "FR"
     },
     {
-      "count": -0.24305555555555558,
+      "count": 3,
       "code": "GB"
     },
     {
-      "count": -1.0,
+      "count": 3,
       "code": "KE"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.75,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.325,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": 0.14285714285714285,
+      "count": 2,
       "code": "PK"
     },
     {
-      "count": -0.04999999999999999,
+      "count": 3,
       "code": "GB"
     },
     {
-      "count": 0.13333333333333333,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.08333333333333333,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": 0.13333333333333333,
+      "count": 2,
       "code": "GB"
     },
     {
-      "count": -0.16666666666666666,
+      "count": 3,
       "code": "GB"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "US"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.32666666666666666,
+      "count": 2,
       "code": "BE"
     },
     {
-      "count": -1.0,
+      "count": 3,
       "code": "MT"
     },
     {
-      "count": -0.15,
+      "count": 3,
       "code": "CH"
     },
     {
-      "count": 0.0,
+      "count": 1,
       "code": "GB"
     },
     {
-      "count": 0.5,
+      "count": 2,
       "code": "GB"
     }
-  ]
-}
+]

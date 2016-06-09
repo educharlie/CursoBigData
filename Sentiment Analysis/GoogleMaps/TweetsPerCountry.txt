@@ -1,0 +1,46 @@
+Belgium,8
+France,12
+Bermuda,1
+Brunei Darussalam,2
+Deutschland, Europe,41
+Japan,2
+Algeria,3
+Brasil,2
+Colombia,5
+Korea,3
+Qatar,1
+Nagaland, India,12
+Norge,2
+Turkey,1
+Nigeria,4
+New Zealand/Aotearoa,26
+Panama,7
+Thailand,1
+Pakistan,111
+Egypt,5
+Schweiz, Suisse, Svizzera, Svizra,3
+United Arab Emirates,38
+Greece,2
+Iraq,1
+Yemen,2
+Canada,542
+Italia,2
+Ecuador,1
+South Africa,13
+Cyprus,1
+Argentina,1
+Australia,41
+UK,130
+India,36
+Ireland,5
+Spain,12
+Ghana,2
+Kenya,6
+Minnesota, United States of America,1
+United States of America,184
+Mauritius,1
+Malta,9
+South Africa,10
+Singapura,4
+Estados Unidos Mexicanos,3
+Sverige,2
